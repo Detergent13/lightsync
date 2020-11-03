@@ -1,3 +1,10 @@
+.idea/
+minified/
+*.zip
+auth.py
+test.py
+tft to obf.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
